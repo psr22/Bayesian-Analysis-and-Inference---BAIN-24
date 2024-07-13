@@ -1,2 +1,2 @@
-# Bayesian-Analysis-and-Inference---BAIN-24
+# Bayesian Analysis and Inference - BAIN-24
 Summer Project under Stamatics, IITK
